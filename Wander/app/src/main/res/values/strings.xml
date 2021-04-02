@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wander</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">normalmap</string>
+    <string name="hybrid_map">hybridmap</string>
+    <string name="satellite_map">satellitemap</string>
+    <string name="terrain_map">terrainmap</string>
+    <string name="dropped_pin">droppedpin</string>
+</resources>
